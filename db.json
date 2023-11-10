@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Tomás",
+      "email": "tomasrlnd16@gmail.com",
+      "telefono": "655151741",
+      "empresa": "Codigo con Tomas",
+      "id": 1
+    },
+    {
+      "nombre": "Tomás",
+      "email": "tomasrlnd16@gmail.com",
+      "telefono": "655151741",
+      "empresa": "Particular",
+      "id": 2
+    },
+    {
+      "nombre": "Tomás",
+      "email": "tomasrlnd16@gmail.com",
+      "telefono": "655151741",
+      "empresa": "Codigo con pepito",
+      "id": 3
+    }
+  ]
+}
